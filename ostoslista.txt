@@ -4,3 +4,4 @@ mehu
 voi
 juusto
 kalkkuna
+kasvissekoitus
